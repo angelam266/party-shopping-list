@@ -4,3 +4,9 @@ lemonade
 apple juice
 sprite
 tango orange
+vodka
+gin
+tonic
+champagne
+prosecco
+moet

@@ -5,3 +5,4 @@ nachos
 hummus
 cucumber sticks
 carrot sticks
+guacamole
