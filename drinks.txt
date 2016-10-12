@@ -6,6 +6,7 @@ sprite
 tango orange
 vodka
 gin
+merlot
 tonic
 champagne
 prosecco
