@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 coke
 orange juice
 lemonade
@@ -10,3 +11,12 @@ tonic
 champagne
 prosecco
 moet
+=======
+iron bru
+gin 
+lemonade
+>>>>>>> Stashed changes
+gin 
+tonic 
+gin 
+vodka 
